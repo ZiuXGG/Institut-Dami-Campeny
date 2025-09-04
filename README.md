@@ -1,1 +1,1 @@
-# Institut-Dami-Campeny
+# Institut-Damià-Campeny
