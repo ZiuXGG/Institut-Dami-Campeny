@@ -3,7 +3,7 @@
 
 .principal-image-content{
   position: relative;
-  background-image: url("/Template project/El_institut.jpg");
+  background-image: url("../Template project/El_institut.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
@@ -194,3 +194,4 @@
     transform: scale(0.6);
   }
 }
+
